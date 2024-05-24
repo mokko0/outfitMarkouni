@@ -1,0 +1,38 @@
+Documentazione del Progetto: Negozio di Vestiti per Maranza
+Introduzione
+Questo documento descrive il progetto di un sito web per un negozio di vestiti per maranza utilizzando le tecnologie HTML, CSS, JavaScript, PHP, MySQL e AJAX. Il sito fornirà agli utenti la possibilità di navigare tra i prodotti, aggiungerli al carrello, effettuare acquisti e gestire il proprio account.
+
+Tecnologie Utilizzate
+HTML: Linguaggio di markup per la struttura del sito web.
+CSS: Fogli di stile per lo stile e il layout del sito.
+JavaScript: Linguaggio di scripting per aggiungere interattività e dinamicità al sito.
+PHP: Linguaggio di scripting lato server per la gestione delle funzionalità dinamiche.
+MySQL: Sistema di gestione di database relazionali per la memorizzazione dei dati.
+AJAX: Tecnologia per il caricamento asincrono di contenuti senza dover ricaricare l'intera pagina.
+Struttura del Sito
+Il sito seguirà una struttura standard per un negozio online, con le seguenti sezioni principali:
+
+Home: Pagina principale del sito con i prodotti in vetrina e promozioni.
+Catalogo: Sezione in cui gli utenti possono visualizzare tutti i prodotti disponibili.
+Dettaglio Prodotto: Pagina dedicata ai dettagli di un singolo prodotto.
+Carrello: Pagina in cui gli utenti possono visualizzare i prodotti aggiunti al carrello e procedere al checkout.
+Account Utente: Area riservata agli utenti registrati per gestire il proprio profilo e gli ordini.
+
+Implementazione Tecnica
+HTML e CSS: Utilizzeremo il template "eShopper" disponibile su Free CSS (https://www.free-css.com/free-css-templates/page277/eshopper) come base per la struttura e lo stile del sito. Modificheremo il template per adattarlo alle esigenze specifiche del negozio di vestiti per maranza.
+
+JavaScript: Implementeremo script JavaScript per aggiungere funzionalità interattive come la gestione del carrello, la validazione dei form e l'aggiornamento dinamico dei contenuti.
+
+PHP e MySQL: Utilizzeremo PHP per gestire le operazioni lato server, come l'accesso al database MySQL per recuperare informazioni sui prodotti, gli utenti e gli ordini. Utilizzeremo MySQL per la creazione e la gestione del database, che conterrà tabelle per prodotti, utenti e ordini.
+
+AJAX: Utilizzeremo AJAX per migliorare l'esperienza utente consentendo il caricamento asincrono di contenuti come aggiornamenti del carrello senza dover ricaricare l'intera pagina.
+
+Conclusioni
+Questo progetto combina una varietà di tecnologie per creare un sito web dinamico e interattivo per un negozio di vestiti per maranza. Sfruttando le capacità di HTML, CSS, JavaScript, PHP, MySQL e AJAX, il sito offrirà agli utenti un'esperienza di shopping online completa e coinvolgente.
+
+Nota: Il template "eShopper" è utilizzato come base per la struttura e lo stile del sito, con modifiche apportate per adattarlo alle esigenze specifiche del progetto.
+
+Fonti
+Template "eShopper": https://www.free-css.com/free-css-templates/page277/eshopper
+AI: ChatGPT 3.5
+Questo progetto è stato realizzato con l'aiuto del modello di linguaggio ChatGPT 3.5 di OpenAI.
